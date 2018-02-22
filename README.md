@@ -15,5 +15,5 @@ $ serverless deploy
 ## Remove
 
 ```bash
-$ sersverless remove
+$ serverless remove
 ```
